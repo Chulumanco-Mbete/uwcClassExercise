@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Find Biggest Number Exercise 3/1.0.0": {
+        "runtime": {
+          "Find Biggest Number Exercise 3.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Find Biggest Number Exercise 3/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
